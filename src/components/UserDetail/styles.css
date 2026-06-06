@@ -1,0 +1,18 @@
+.user-detail {
+  padding: 20px;
+}
+
+.user-detail h2 {
+  margin-top: 0;
+}
+
+.photos-link {
+  display: inline-block;
+  margin-top: 12px;
+  text-decoration: none;
+  color: #1976d2;
+}
+
+.photos-link:hover {
+  text-decoration: underline;
+}

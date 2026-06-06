@@ -1,0 +1,11 @@
+.topbar-appBar {
+  height: 64px;
+}
+
+.topbar-title {
+  flex-grow: 1;
+}
+
+.topbar-context {
+  font-size: 18px;
+}
