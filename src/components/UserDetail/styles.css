@@ -1,18 +1,3 @@
-.user-detail {
-  padding: 20px;
-}
-
-.user-detail h2 {
-  margin-top: 0;
-}
-
-.photos-link {
-  display: inline-block;
-  margin-top: 12px;
-  text-decoration: none;
-  color: #1976d2;
-}
-
-.photos-link:hover {
-  text-decoration: underline;
-}
+.user-detail{padding:12px;border:1px solid var(--border);border-radius:6px}
+.user-detail h2{margin-top:0}
+.photos-link{display:inline-block;margin-top:.5rem;color:var(--text);text-decoration:none}

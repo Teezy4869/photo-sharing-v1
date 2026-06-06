@@ -1,27 +1,5 @@
-.user-list {
-  padding: 16px;
-}
-
-.user-list h2 {
-  margin-top: 0;
-  font-size: 20px;
-}
-
-.user-list-items {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.user-list-item {
-  margin-bottom: 10px;
-}
-
-.user-list-item a {
-  text-decoration: none;
-  color: #1976d2;
-}
-
-.user-list-item a:hover {
-  text-decoration: underline;
-}
+.user-list{display:grid;gap:.5rem;padding:12px}
+.user-card{border:1px solid var(--border);padding:.5rem;border-radius:6px;background:transparent}
+.user-card .name{font-weight:600}
+.user-card .meta{color:var(--muted);font-size:.9rem}
+.user-link{text-decoration:none;color:var(--text)}

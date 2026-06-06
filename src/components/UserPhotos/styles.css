@@ -1,0 +1,4 @@
+.user-photos{padding:12px}
+.photo-card{border:1px solid var(--border);padding:.5rem;margin-bottom:1rem;border-radius:6px}
+.photo-time{font-size:.9rem;color:var(--muted);margin-bottom:.5rem}
+.photo-image{width:100%;display:block;object-fit:cover}

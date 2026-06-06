@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/* Minimal neutral variables and resets for simplified styles */
+:root{--text:#111;--muted:#666;--border:#e6e6e6;--bg:#fff}
+*{box-sizing:border-box}
+img{max-width:100%;display:block;height:auto}
